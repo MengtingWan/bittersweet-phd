@@ -1,6 +1,20 @@
 **Table of Contents:**
 
-[TOC]
+- [Latex Packages & Tricks](#latex-packages---tricks)
+  * [Control float environments](#control-float-environments)
+  * [[_**"subcaption"**_](https://ctan.org/pkg/subcaption?lang=en): Create sub-figures and sub-tables](#-----subcaption------https---ctanorg-pkg-subcaption-lang-en---create-sub-figures-and-sub-tables)
+  * [[_**"enumitem"**_](https://ctan.org/pkg/enumitem?lang=en): Control layout of itemize, enumerate & description](#-----enumitem------https---ctanorg-pkg-enumitem-lang-en---control-layout-of-itemize--enumerate---description)
+  * [[_**"booktabs"**_](https://ctan.org/pkg/booktabs?lang=en): Beautiful tables](#-----booktabs------https---ctanorg-pkg-booktabs-lang-en---beautiful-tables)
+  * [[_**"makecell"**_](https://ctan.org/pkg/makecell?lang=en): Force line breaks inside a table cell](#-----makecell------https---ctanorg-pkg-makecell-lang-en---force-line-breaks-inside-a-table-cell)
+  * [[_**"tabularx"**_](https://ctan.org/pkg/tabularx?lang=en): Tabulars with adjustable-width columns](#-----tabularx------https---ctanorg-pkg-tabularx-lang-en---tabulars-with-adjustable-width-columns)
+  * [Quotation Marks and Dashes](#quotation-marks-and-dashes)
+  * [Resize parentheses, brackets and braces](#resize-parentheses--brackets-and-braces)
+  * [Overbrace and underbrace](#overbrace-and-underbrace)
+  * [Math symbols and fonts](#math-symbols-and-fonts)
+  * [[_**"bm"**_](https://ctan.org/pkg/bm): A lazy solution to bold symbols in maths mode](#-----bm------https---ctanorg-pkg-bm---a-lazy-solution-to-bold-symbols-in-maths-mode)
+  * [[_**"mathtools"**_](https://ctan.org/pkg/mathtools?lang=en): Beautiful maths](#-----mathtools------https---ctanorg-pkg-mathtools-lang-en---beautiful-maths)
+  * [[_**"cleveref"**_](https://ctan.org/pkg/cleveref?lang=en): A clever way to reference](#-----cleveref------https---ctanorg-pkg-cleveref-lang-en---a-clever-way-to-reference)
+  * [[_**"xcolor"**_](https://ctan.org/pkg/xcolor?lang=en): Color your LaTex](#-----xcolor------https---ctanorg-pkg-xcolor-lang-en---color-your-latex)
 
 # Latex Packages & Tricks
 
