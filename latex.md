@@ -5,6 +5,7 @@
   * [_**"subcaption"**_: Create sub-figures and sub-tables](#----subcaption------create-sub-figures-and-sub-tables)
   * [_**"enumitem"**_: Control layout of itemize, enumerate & description](#----enumitem------control-layout-of-itemize--enumerate---description)
   * [_**"booktabs"**_: Beautiful tables](#----booktabs------beautiful-tables)
+  * [`pandas.DataFrame.to_latex()`: Dump data from Python to LaTex](#-pandasdataframeto-latex-----dump-data-from-python-to-latex)
   * [_**"makecell"**_: Force line breaks inside a table cell](#----makecell------force-line-breaks-inside-a-table-cell)
   * [_**"tabularx"**_: Tabulars with adjustable-width columns](#----tabularx------tabulars-with-adjustable-width-columns)
   * [Quotation Marks and Dashes](#quotation-marks-and-dashes)
@@ -77,6 +78,13 @@ _"booktabs"_ might be one of the most popular latex packages in academic writing
 - [A fancier example (stepped table)](https://tex.stackexchange.com/questions/433930/stepped-table-in-booktabs?rq=1)
 - [Another fancy example (with multi-columns)](https://tex.stackexchange.com/questions/163061/help-with-a-booktabs-table)
 - [Official document](http://ctan.math.utah.edu/ctan/tex-archive/macros/latex/contrib/booktabs/booktabs.pdf)
+
+## `pandas.DataFrame.to_latex()`: Dump data from Python to LaTex
+
+`pandas.DataFrame.to_latex()` would render a pandas.DataFrame object in python to a LaTeX tabular environment _"booktabs"_-style table.
+
+- [Example](https://stackoverflow.com/questions/14380371/export-a-latex-table-from-pandas-dataframe)
+- [Document](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_latex.html)
 
 ## _**"makecell"**_: Force line breaks inside a table cell
 This package can be very helpful if you want to force line breaks inside a table cell

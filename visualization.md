@@ -20,10 +20,10 @@
 
 - [plotly](https://plot.ly/python/)
 
-# R Visualization (TO-DO)
-
 # Miscellaneous
 
 ## Embed Fonts in PDF
+- [How to embed fonts in PDFs produced by matplotlib?](https://stackoverflow.com/questions/9054884/how-to-embed-fonts-in-pdfs-produced-by-matplotlib/22809802)
 
 ## Compress PDF
+- [Reducing the size of pdf figure file in matplotlib](https://stackoverflow.com/questions/10685495/reducing-the-size-of-pdf-figure-file-in-matplotlib)
